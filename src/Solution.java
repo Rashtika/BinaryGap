@@ -19,7 +19,6 @@ public class Solution {
 
         Integer[] BinaryRep = new Integer[allRemainders.size()];
         BinaryRep = allRemainders.toArray(BinaryRep);
-        System.out.println(allRemainders.toString());
 
         ArrayList<Integer> counting = new ArrayList<>();
 
